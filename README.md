@@ -9,13 +9,11 @@
 - 💬 Ask me about: Network Security, Linux, Python scripting,SQL
 
 ## 🛠️ Currently Learning
-- ✅ Google Cybersecurity Professional Certificate
-- ✅ TryHackMe — Pre Security Path
 - 🔄 CS50 Cybersecurity — Harvard (upcoming)
 - 🔄 Python for Security Automation
 
 ## 🏆 Certifications
-- 🟡 Google Cybersecurity Certificate (In Progress)
+ ✅ Google Cybersecurity Certificate — Completed Jul 2026
 - 📌 eJPT (Planned — 2027)
 - 📌 OSCP (Planned — 2028-29)
 
